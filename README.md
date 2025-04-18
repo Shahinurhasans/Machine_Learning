@@ -7,3 +7,5 @@
 04 -> Lin_reg_single_var_Closed_Form
 
 05 -> Lin_Rrg_Multi_Var_Sklearn
+
+06 -> Lin_Reg_Multi_Var_GD
